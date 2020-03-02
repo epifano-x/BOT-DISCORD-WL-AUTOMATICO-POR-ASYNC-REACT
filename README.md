@@ -1,13 +1,11 @@
 # BOT REACT WITHLIST (BANCO DE DADOS FIREBASE)
 
+EPIFANO#8116
 
+
+# npm 
 IMPORT BANCO DE DADOS ... (FIREBASE - REAL TIME)
 IMPORTAR DISCORD.JS
-
-AS LET SERVIDOR, CANAL, dados.d.mensage_id... 
-
-
-
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
