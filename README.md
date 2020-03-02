@@ -1,4 +1,4 @@
-# bot-wl-por-rea-ao-com-banco-firebase
+# BOT REACT WITHLIST (BANCO DE DADOS FIREBASE)
 
 
 IMPORT BANCO DE DADOS ... (FIREBASE - REAL TIME)
@@ -12,6 +12,6 @@ AS LET SERVIDOR, CANAL, dados.d.mensage_id...
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-DISCORD 4FUN E SUPORTE
+# DISCORD 4FUN E SUPORTE
 
 https://discord.gg/pMwajHs
