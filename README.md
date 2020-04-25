@@ -21,3 +21,6 @@ https://discord.gg/pMwajHs
 # TUTORIAL BASICO
 
 https://youtu.be/XZoQouQgrg4
+
+
+# WL COM MODULOS E O BACK DELA E SO EXTRAIR ELA Q JA ESTA COM OS MODULOS ...
