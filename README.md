@@ -16,3 +16,8 @@ IMPORTAR DISCORD.JS
 # DISCORD 4FUN E SUPORTE
 
 https://discord.gg/pMwajHs
+
+
+# TUTORIAL BASICO
+
+https://youtu.be/XZoQouQgrg4
