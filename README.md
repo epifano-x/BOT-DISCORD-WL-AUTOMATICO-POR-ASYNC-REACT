@@ -23,4 +23,6 @@ https://discord.gg/pMwajHs
 https://youtu.be/XZoQouQgrg4
 
 
-# WL COM MODULOS E O BACK DELA E SO EXTRAIR ELA Q JA ESTA COM OS MODULOS ...
+# CASO TENHA PROBLEMAS COM MODULOS TENHO UM BACK DA WL COM OS MODULOS DIRECT LINK 
+
+https://drive.google.com/file/d/1syK7vtnU1HC5gGwKXw1TiroA_b26RnCs/view?usp=sharing
