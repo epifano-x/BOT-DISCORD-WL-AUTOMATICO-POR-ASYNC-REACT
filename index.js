@@ -22,7 +22,7 @@ const database = firebase.database();
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 client.on("ready", () => {
-  console.log('bot online')
+  console.log('bot online criado por epifano')
   let status = [
     {name:`${client.users.size} pessoas!`, type: 'LISTENING'},
     {name:` SERVER RP`, type: 'PLAYING'},
