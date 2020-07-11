@@ -15,7 +15,7 @@ IMPORTAR DISCORD.JS
 
 # DISCORD 4FUN E SUPORTE
 
-https://discord.gg/pMwajHs
+discord.club/i/ERROR-404
 
 
 # TUTORIAL BASICO
